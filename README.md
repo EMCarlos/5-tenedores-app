@@ -1,13 +1,15 @@
 # Project Title
 
-App created with react native for the [Udemy Course](https://www.udemy.com/course/react-native-expo-creando-mini-tripadvisor-de-restaurantes/)
+Restaurants review app created with react native for the [Udemy Course](https://www.udemy.com/course/react-native-expo-creando-mini-tripadvisor-de-restaurantes/)
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Add restaurants
+- List of restaurants
+- Authentication
+- Review system
+- Search
+- Favorites
 
 ## Installation
 
